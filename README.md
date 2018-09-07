@@ -1,15 +1,16 @@
 StudentGradeReport
 ==================
-Simple codeigniter CRUD example
+Simple Bootstrap/codeigniter CRUD example
+
 
 ### Todo
 **Database**
 - [x] student table
 
 **Front-end**
-- [ ] changing add view to index (Adding in the same page)
+- [ ] changing "add" view to index page (Adding in the same page)
 
 **Back-end**
-- [ ] codeigniter project
-- [ ] Buttons & links
+- [x] codeigniter project
+- [x] Buttons & links
 - [ ] validation rules
